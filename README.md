@@ -1,10 +1,10 @@
 # CPE 1040 - Introduction to Computer Engeneering
 
-## Assignment: First Microbit Program in Blocks
+## Assignment: Migrating micro:bit Programming from Blocks to JavaScript
 
 ### 1. Summary
 
-This assignment asks you to "write" your first micro:bit program in Blocks, and introduces you to working with Github.
+This assignment asks you to go through a [Intro to CS course with Blocks](https://makecode.microbit.org/courses/csintro) for the micro:bit, and write parallel programs using the JavaScript equivalent of the code in the course modules. This assignment is submitted through Github.
 
 ### 2. Requirements
 
@@ -58,8 +58,11 @@ This assignment asks you to "write" your first micro:bit program in Blocks, and 
 
 4. The [projects](https://www.itpro.co.uk/desktop-hardware/26289/13-top-bbc-micro-bit-projects) at the [awesome micro:bit list](https://github.com/carlosperate/awesome-microbit).
 
-## Github Installation
+## Github
 
-1. On Linux or MacOS, you probably already have 'git' installed. Type 'which git' in a terminal to verify. If not, download and install from the [Git website](https://git-scm.com/) (it will recognize your OS and will offer you to download the appropriate installer package).
-
-2. For windows, to the [Git website](https://git-scm.com/) (it will recognize your OS and will offer you to download the appropriate installer program).
+Github Tutorial for Beginners ([webpage](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)).
+[http://PREVIEW UNAVAILABLE 18:54 Github Tutorial For Beginners - Github Basics for Mac or Windows ...]Github Basics for Mac and Windows (video).
+git & Github Crash Course for Beginners ([video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)).
+Introduction to Github for Beginners ([video](https://www.youtube.com/watch?v=fQLK8Ib_SKk)).
+About `git` ([webpage](https://git-scm.com/about)).
+`git` [documentation](https://git-scm.com/doc) (webpage, book, videos, reference manual).
