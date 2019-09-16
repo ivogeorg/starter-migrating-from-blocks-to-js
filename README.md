@@ -24,23 +24,10 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 1. You need to commit the changes and additions to your assignment for each section or project. This means that there should be _at least_ 12 commits to your assignment repository when you are done. I advise you to have more than that, to get used to it.
 
-2. You need to **tag** the final commit for each section. Tags are under the _Releases_ tab on the Github page of your repository. The tag should be
+2. You need to **tag** the final commit for each section. Tags are under _releases_ in the repository bar on the Github page of the assignment repository. The tag should be one of the following `v0.1`, `v0.2`, ..., `v0.12`, for each section, respectively.
 
+3. You need to update the assignment repository README.md (this document, in the section [Tags](#tags)) with a short description of your section program or project, **before** you tag.
 
-
-
-
-1. You need to write the program yourself. _**Note:** It is very important that you take the time to do that, without copying other programs, following step-by-step tutorials or guides, or flipping back and forth between an already written program while writing your own._
-
-2. The program doesn't have to be very complicated, but it also shouldn't be basic. It should have:
-   - input (buttons, motion sensor, temperature, or GPIO pin resistance)
-   - output (5x5 LED matrix)
-   - some computation (you should take some data and process it)
-   - looping (do something repeatedly, including but not limited to a "forever" loop)
-
-3. Look at the [resources](#resources) for ideas.
-
-4. Test your program on your micro:bit until you are satisfied.
 
 ### 3. Working with Github Classroom
 
@@ -71,6 +58,8 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 13. Write a short description of your micro:bit program. Use some markdown formatting, to practice. Here is the [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Resources
+
+TODO: JavaScript/TypeScript references
 
 1. [micro:bit lessons](https://makecode.microbit.org/lessons).
 
