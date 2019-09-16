@@ -16,17 +16,17 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 3. For the non-project sections, you are required to use the JS equivalent of the material from the section. _**Note:** For these programs, you are allowed to look at the JS translation of Blocks programs._
 
-4. For the midterm project, you are required to use the JS equivalent of the material from all 5 preceding sections.  _**Note:** For this project, you are NOT allowed to look at the JS translation of Blocks programs._
+4. For the midterm project, you are required to use the JS equivalent of the material from all 5 preceding sections.  _**Note:** For this project, you are NOT allowed to look at the JS translation of Blocks programs._ (An aside: if you don't know how to read a statement like "you are not allowed to", the intended and preferred interpretation is "you can do whatever you want and won't be penalized by me, but, if you want to learn most effectively, I suggest that you do not resort to...".)
 
 5. For the final project, you are required to use the JS equivalent of the material from all 10 preceding non-project sections. _**Note:** For this project, you are NOT allowed to look at the JS translation of Blocks programs._
 
 #### 2.2 Github commits & tags
 
-1. You need to commit the changes and additions to your assignment for each section or project. This means that there should be _at least_ 12 commits to your assignment repository when you are done. I advise you to have more than that, to get used to it.
+1. You need to commit the changes and additions to your assignment for each section or project. This means that there should be _at least_ 12 commits pushed to your remote assignment repository on Github when you are done. I advise you to have more than that, to get used to it.
 
-2. You need to **tag** the final commit for each section. Tags are under _releases_ in the repository bar on the Github page of the assignment repository. The tag should be one of the following `v0.1`, `v0.2`, ..., `v0.12`, for each section, respectively.
+2. You need to **tag** the final commit for each section. Tags are under _releases_ in the repository bar on the Github page of the assignment repository. The tag should be one of the following `v0.1`, `v0.2`, ..., `v0.12`, for each section, respectively. (Terminology clarification: The `git` command is `git tag`, but tags are counted as _releases_ on Github.)
 
-3. You need to update the assignment repository README.md (this document, in the section [Tags](#tags)) with a short description of your section program or project, **before** you tag.
+3. You need to update the assignment repository [README.md](README.md) (this document, in the section [Tags](#tags)) with a short description of your section program or project, **before** you tag.
 
 
 ### 3. Working with Github Classroom
@@ -77,3 +77,11 @@ git & Github Crash Course for Beginners ([video](https://www.youtube.com/watch?v
 Introduction to Github for Beginners ([video](https://www.youtube.com/watch?v=fQLK8Ib_SKk)).
 About `git` ([webpage](https://git-scm.com/about)).
 `git` [documentation](https://git-scm.com/doc) (webpage, book, videos, reference manual).
+
+## Tags
+
+_**Note:** Add your program descriptions below._
+
+### v0.1
+
+**[your description here, linking to the JavaScript [file](example.js)]**]
