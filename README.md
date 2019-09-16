@@ -10,7 +10,7 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 #### 2.1 Section programs
 
-1. The CS course is broken down into thematic sections. There are 5 sections + 1 midterm project + 5 sections + final project.
+1. The CS course is broken down into thematic sections. There are 5 sections + 1 midterm project + 5 sections + final project. Each section has 4 parts. You want the _Activity_ part, which contains the section's CS material and Blocks.
 
 2. You need to write a _working_ JavaScript (JS) program for the micro:bit for each of these sections/projects, for a total of 12.  
 
@@ -66,9 +66,19 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### JavaScript
 
-TODO: Technically, TypeScript
+1. Technically, the language which is used side-by-side with Blocks in the Makecode environment is a subset of [TypeScript](https://makecode.com/language), which itself is a superset of JavaScript (technically, [ECMAScript](https://www.ecma-international.org/ecma-262/10.0/index.html#Title)), with some JS features not implemented in Makecode.
 
-TODO: JavaScript/TypeScript references
+2. The limited [JavaScript mini-tutorial](https://makecode.microbit.org/javascript) in Makecode. Make sure you read it but that can't be your only reference.
+
+3. Official [TypeScript documentation]():
+   1. TypeScript in 5 min [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html). _Highly recommended! You will need to [download](https://www.typescriptlang.org/index.html#download-links) and install an integrated development envinronment (IDE). The two that I recommend are Visual Studio Code from Microsoft and WebStorm from JetBrains._
+   2. The full documentation and reference is under _Handbook_. Bear in mind that you are drinking from the hose. Don't be surprised if not everything is presented in a strictly incremental manner.
+   
+4. In-browser TypeScript [playground](https://www.typescriptlang.org/play/index.html). Note that micro:bit specific code will not run, but you can still play. _Start making the distinction between a generic multi-purpose programming language (TypeScript) and functionality (libraries, objects, etc.) that is specific to a particular device (micro:bit), though written in the same programming language._
+
+5. TODO: JavaScript tutorial & reference.
+
+6. TODO: TypeScript libraries for micro:bit.
 
 ---
 
