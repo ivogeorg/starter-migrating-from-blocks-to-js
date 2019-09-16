@@ -68,6 +68,8 @@ TODO: Technically, TypeScript
 
 TODO: JavaScript/TypeScript references
 
+---
+
 ## Tags
 
 _**Note:** Add your program descriptions below._
@@ -100,6 +102,6 @@ _**Note:** Add your project designs below._
 
 **[which JavaScript features you used in the implementation of your project idea]**
 
-#### Final project
+### Final project
 
 **[etc.]**
