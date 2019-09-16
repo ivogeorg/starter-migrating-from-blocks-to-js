@@ -30,7 +30,11 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 #### 2.3 Project design
 
-1. For each of the two projects, you need to include a design "document" in the [README.md](README.md) (this document, in the section [Designs](#designs))
+1. For each of the two projects, you need to include a design "document" in the [README.md](README.md) (this document, in the section [Designs](#designs)).
+
+2. The design "document" should follow the _problem-solving tips_ in the [mini-project page](https://makecode.microbit.org/courses/csintro/miniproject).
+
+3. The design "document" should have at least the following sections: Goal, Design process, and JS Language Constructs & Objects. Articulating clearly your engineering work is a key professional skill.
 
 ## Resources
 
@@ -60,6 +64,8 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### JavaScript
 
+TODO: Technically, TypeScript
+
 TODO: JavaScript/TypeScript references
 
 ## Tags
@@ -70,7 +76,30 @@ _**Note:** Add your program descriptions below._
 
 **[your description here, linking to the JavaScript [file](example.js)**]
 
+### v0.2
+
+**[etc.]**
+
 ## Designs
 
 _**Note:** Add your project designs below._
 
+### Midterm project
+
+_**Note:** Add your project designs below._
+
+#### Goal
+
+**[your short description]**
+
+#### Design process
+
+**[the things you tried, the questions you asked yourself, the answers, the sticking points, the restarts, the final version]**
+
+#### JS Constructs & objects
+
+**[which JavaScript features you used in the implementation of your project idea]**
+
+#### Final project
+
+**[etc.]**
