@@ -8,6 +8,28 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### 2. Requirements
 
+#### 2.1 Section programs
+
+1. The CS course is broken down into thematic sections. There are 5 sections + 1 midterm project + 5 sections + final project.
+
+2. You need to write a _working_ JavaScript (JS) program for the micro:bit for each of these sections/projects, for a total of 12.  
+
+3. For the non-project sections, you are required to use the JS equivalent of the material from the section. _**Note:** For these programs, you are allowed to look at the JS translation of Blocks programs._
+
+4. For the midterm project, you are required to use the JS equivalent of the material from all 5 preceding sections.  _**Note:** For this project, you are NOT allowed to look at the JS translation of Blocks programs._
+
+5. For the final project, you are required to use the JS equivalent of the material from all 10 preceding non-project sections. _**Note:** For this project, you are NOT allowed to look at the JS translation of Blocks programs._
+
+#### 2.2 Github commits & tags
+
+1. You need to commit the changes and additions to your assignment for each section or project. This means that there should be _at least_ 12 commits to your assignment repository when you are done. I advise you to have more than that, to get used to it.
+
+2. You need to **tag** the final commit for each section. Tags are under the _Releases_ tab on the Github page of your repository. The tag should be
+
+
+
+
+
 1. You need to write the program yourself. _**Note:** It is very important that you take the time to do that, without copying other programs, following step-by-step tutorials or guides, or flipping back and forth between an already written program while writing your own._
 
 2. The program doesn't have to be very complicated, but it also shouldn't be basic. It should have:
