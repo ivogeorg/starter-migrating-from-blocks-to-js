@@ -72,7 +72,7 @@ TODO: JavaScript/TypeScript references
 ## Github
 
 Github Tutorial for Beginners ([webpage](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)).
-[http://PREVIEW UNAVAILABLE 18:54 Github Tutorial For Beginners - Github Basics for Mac or Windows ...]Github Basics for Mac and Windows (video).
+Github Basics for Mac and Windows ([video](https://www.youtube.com/watch?v=0fKg7e37bQE)).
 git & Github Crash Course for Beginners ([video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)).
 Introduction to Github for Beginners ([video](https://www.youtube.com/watch?v=fQLK8Ib_SKk)).
 About `git` ([webpage](https://git-scm.com/about)).
@@ -84,4 +84,4 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**[your description here, linking to the JavaScript [file](example.js)]**]
+**[your description here, linking to the JavaScript [file](example.js)**]
