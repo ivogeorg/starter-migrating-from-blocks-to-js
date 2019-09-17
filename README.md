@@ -64,6 +64,8 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 6. `git` [documentation](https://git-scm.com/doc) (webpage, book, videos, reference manual).
 
+7. [Github markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 ### JavaScript
 
 1. Technically, the language which is used side-by-side with Blocks in the Makecode environment is a subset of [TypeScript](https://makecode.com/language), which itself is a superset of JavaScript (technically, [ECMAScript](https://www.ecma-international.org/ecma-262/10.0/index.html#Title)), with some JS features not implemented in Makecode.
