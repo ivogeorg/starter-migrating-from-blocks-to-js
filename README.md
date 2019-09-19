@@ -100,6 +100,12 @@ _**Note:** Add your program descriptions below._
 
 ## Designs
 
+### v0.7
+
+One sentence description of the program just committed in [new_program.js]. It does so and so....
+
+
+
 _**Note:** Add your project designs below._
 
 ### Midterm project
