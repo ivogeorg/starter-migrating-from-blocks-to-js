@@ -102,7 +102,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.7
 
-One sentence description of the program just committed in [new_program.js]. It does so and so....
+One sentence description of the [program](new_program.js) just committed. It does so and so....
 
 
 
